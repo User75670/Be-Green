@@ -6,36 +6,36 @@ const paragraphs = [
     `
     <h2>What Trees Give Us</h2>
     <p id='p'>
-    Trees are one of the most valuable natural resources on Earth, providing a wide range of benefits to both the environment and human life.<br>
-    They produce oxygen, which is essential for our survival, and absorb carbon dioxide, helping to reduce the impact of climate change.<br>
-    Trees also provide shade, cooling the air and creating comfortable spaces for people and animals.<br>
+    Trees are one of the most valuable natural resources on Earth, providing a wide range of benefits to both the environment and human life.
+    They produce oxygen, which is essential for our survival, and absorb carbon dioxide, helping to reduce the impact of climate change.
+    Trees also provide shade, cooling the air and creating comfortable spaces for people and animals.
     In addition, many creatures rely on trees for food and shelter, making forests critical for biodiversity.
     </p>
     `,
     `
     <h2>Why Trees Are Important</h2>
     <p id='p'>
-    Beyond providing us with fresh air and shelter, trees play a crucial role in protecting our environment.<br>
-    Their roots prevent soil erosion by holding the ground together, and they absorb excess rainwater, reducing the risk of flooding.<br>
-    Trees also help fight climate change by trapping carbon and cooling down the planet.<br>
+    Beyond providing us with fresh air and shelter, trees play a crucial role in protecting our environment.
+    Their roots prevent soil erosion by holding the ground together, and they absorb excess rainwater, reducing the risk of flooding.
+    Trees also help fight climate change by trapping carbon and cooling down the planet.
     They make our surroundings beautiful and peaceful, improving our mental and physical well-being.
     </p>
     `,
     `
     <h2>Why We Shouldn't Cut Down Trees</h2>
     <p id='p'>
-    Despite their importance, deforestation continues to threaten the balance of nature.<br>
-    Cutting down trees irresponsibly leads to habitat loss, climate changes, and increased natural disasters.<br>
-    Without forests, oxygen levels drop, carbon emissions rise, and animals lose their homes.<br>
+    Despite their importance, deforestation continues to threaten the balance of nature.
+    Cutting down trees irresponsibly leads to habitat loss, climate changes, and increased natural disasters.
+    Without forests, oxygen levels drop, carbon emissions rise, and animals lose their homes.
     Instead of destroying trees, we must find sustainable ways to use natural resources and ensure forests remain intact for future generations.
     </p>
     `,
     `
     <h2>How We Can Help</h2>
     <p id='p'>
-    Protecting trees is a responsibility we all share.<br>
-    By planting new trees, reducing waste, and supporting reforestation programs, we can contribute to a greener world.<br>
-    Choosing sustainable products, raising awareness, and advocating for environmental policies can also make a significant difference.<br>
+    Protecting trees is a responsibility we all share.
+    By planting new trees, reducing waste, and supporting reforestation programs, we can contribute to a greener world.
+    Choosing sustainable products, raising awareness, and advocating for environmental policies can also make a significant difference.
     Small actions lead to big changes, and together, we can ensure a future where trees continue to thrive and support life on Earth.
     </p>
     `
